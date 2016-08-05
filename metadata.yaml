@@ -1,0 +1,38 @@
+_repo: The-Adventures-of-Joel-Pepper_7434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
+description: A fatherless family, happy in spite of its impoverished condition, is
+  befriended by a very rich gentleman.
+gutenberg_bookshelf:
+- Children's Book Series
+- Children's Literature
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcsh 'Single-parent families -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Five Little Peppers (Fictitious characters) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Adventures of Joel Pepper
+url: http://www.gutenberg.org/ebooks/7434
